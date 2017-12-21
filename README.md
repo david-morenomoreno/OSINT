@@ -25,7 +25,7 @@ A partir de imagen en DockerHub
 
 Get docker compose
  
-```wget https://raw.githubusercontent.com/treemo/docker-spiderfoot/master/docker-compose.yml```
+```wget https://github.com/dmoreno1994/OSINT/blob/master/spiderfoot/docker-compose.yml```
 
 Create shared database file
  
